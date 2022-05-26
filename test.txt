@@ -1,3 +1,6 @@
 đã thêm
 test git cherry pick
+<<<<<<< HEAD
 test git cherry pick 2
+=======
+>>>>>>> 7669eb3ba812aae9525325e4e6108dec16c2e913
